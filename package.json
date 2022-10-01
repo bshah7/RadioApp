@@ -1,0 +1,25 @@
+{
+  "name": "radio",
+  "version": "1.0.0",
+  "description": "Radio appa API \u001b[D\u001b[D\u001b[D\u001b[D\u001b[\u001b[F\u001b[B\u001b[F\u001b[B\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[Dwith mysql",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "divinetechs",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^3.2.4",
+    "body-parser": "^1.19.1",
+    "cors": "^2.8.5",
+    "express": "^4.17.2",
+    "express-validator": "^6.14.0",
+    "multer": "^1.4.5-lts.1",
+    "mysql": "^2.18.1",
+    "request": "^2.88.2",
+    "require": "^0.4.4",
+    "var": "^0.4.0"
+  },
+  "keywords": []
+}
